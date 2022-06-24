@@ -1,3 +1,6 @@
 [submodule "cs313413su22p1"]
 	path = cs313413su22p1
 	url = https://alexsobiek@bitbucket.org/alexsobiek/cs313413su22p1.git
+[submodule "cs313413su22p2"]
+	path = cs313413su22p2
+	url = https://alexsobiek@bitbucket.org/alexsobiek/cs313413su22p2.git
